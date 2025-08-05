@@ -6,8 +6,8 @@
 
 
 <h1 align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=FreitasAlien&show_icons=true&theme=tokyonight" alt="Freitas GitHub stats" width="450" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreitasAlien&hide_progress=true&theme=tokyonight" alt="Top Langs" width="350" />
+    <img src="https://github-readme-stats.vercel.app/api?username=GustavoFreitasRod&show_icons=true&theme=tokyonight" alt="Freitas GitHub stats" width="450" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFreitasRod&hide_progress=true&theme=tokyonight" alt="Top Langs" width="350" />
 </h1>
 
 
@@ -33,8 +33,8 @@
 </div>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FreitasAlien/FreitasAlien/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FreitasAlien/FreitasAlien/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FreitasAlien/FreitasAlien/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoFreitasRod/GustavoFreitasRod/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoFreitasRod/GustavoFreitasRod/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GustavoFreitasRod/GustavoFreitasRod/output/github-contribution-grid-snake.svg">
 </picture>
 
