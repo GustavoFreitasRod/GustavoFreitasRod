@@ -7,7 +7,7 @@
 
 <h1 align="center">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GustavoFreitasRod&show_icons=true&theme=tokyonight" alt="Freitas GitHub stats" width="450" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFreitasRod&hide_progress=true&theme=tokyonight" alt="Top Langs" width="350" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GustavoFreitasRod&hide_progress=true&theme=tokyonight" alt="Top Langs" width="350" />
 </h1>
 
 
